@@ -1,5 +1,8 @@
+"""Alta3 Research | RZFeeser
+   Learning about best practice techniques"""
 
 def main():
+    """runtime code"""
     print("I am the zerp program!")
 
 # THIS odd looking conditonal ONLY evaluates as TRUE
